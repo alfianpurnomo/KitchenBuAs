@@ -1,0 +1,1 @@
+ALTER TABLE `currency_value` CHANGE `value` `value` VARCHAR(255) NOT NULL;

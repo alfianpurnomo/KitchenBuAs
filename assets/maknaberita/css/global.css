@@ -1,0 +1,695 @@
+/*Padding*/
+.p0{
+	padding:0;
+}.p5{
+	padding:5px;
+}.p10{
+	padding:10px;
+}.p15{
+	padding:15px;
+}.p20{
+	padding:20px;
+}.p25{
+	padding:25px;
+}.p30{
+	padding:30px;
+}.pl0{
+	padding-left:0;
+}.pl5{
+	padding-left:5px;
+}.pl10{
+	padding-left:10px;
+}.pl15{
+	padding-left:15px;
+}.pl20{
+	padding-left:20px;
+}.pl25{
+	padding-left:25px;
+}.pl30{
+	padding-left:30px;
+}.pl40 {
+	padding-left:40px;
+}.pr0{
+	padding-right:0;
+}.pr5{
+	padding-right:5px;
+}.pr10{
+	padding-right:10px;
+}.pr15{
+	padding-right:15px;
+}.pr20{
+	padding-right:20px;
+}.pr25{
+	padding-right:25px;
+}.pr30{
+	padding-right:30px;
+}.pt0{
+	padding-top:0;
+}.pt5{
+	padding-top:5px;
+}.pt10{
+	padding-top:10px;
+}.pt15{
+	padding-top:15px;
+}.pt20{
+	padding-top:20px;
+}.pt25{
+	padding-top:25px;
+}.pt30{
+	padding-top:30px;
+}.pb0{
+	padding-bottom:0;
+}.pb5{
+	padding-bottom:5px;
+}.pb10{
+	padding-bottom:10px;
+}.pb15{
+	padding-bottom:15px;
+}.pb20{
+	padding-bottom:20px;
+}.pb25{
+	padding-bottom:25px;
+}.pb30{
+	padding-bottom:30px;
+}.ptb0{
+	padding-bottom:0;
+	padding-top:0;
+}.ptb5{
+	padding-bottom:5px;
+	padding-top:5px;
+}.ptb10{
+	padding-bottom:10px;
+	padding-top:10px;
+}.ptb15{
+	padding-bottom:15px;
+	padding-top:15px;
+}.ptb20{
+	padding-bottom:20px;
+	padding-top:20px;
+}.ptb25{
+	padding-bottom:25px;
+	padding-top:25px;
+}.ptb30{
+	padding-bottom:30px;
+	padding-top:30px;
+}.prl0{
+	padding-right:0;
+	padding-left:0;
+}.prl5{
+	padding-right:5px;
+	padding-left:5px;
+}.prl10{
+	padding-right:10px !important;
+	padding-left:10px !important;
+}.prl15{
+	padding-right:15px;
+	padding-left:15px;
+}.prl20{
+	padding-right:20px !important;
+	padding-left:20px !important;
+}.prl25{
+	padding-right:25px;
+	padding-left:25px;
+}.prl30{
+	padding-right:30px;
+	padding-left:30px;
+}.prl40{
+	padding-right:40px;
+	padding-left:40px;
+}.p-5{
+	padding:-5px;
+}.p-10{
+	padding:-10px;
+}.p-15{
+	padding:-15px;
+}.p-20{
+	padding:-20px;
+}.p-25{
+	padding:-25px;
+}.p-30{
+	padding:-30px;
+}.pl-5{
+	padding-left:-5px;
+}.pl-10{
+	padding-left:-10px;
+}.pl-15{
+	padding-left:-15px;
+}.pl-20{
+	padding-left:-20px;
+}.pl-25{
+	padding-left:-25px;
+}.pl-30{
+	padding-left:-30px;
+}.pr-5{
+	padding-right:-5px;
+}.pr-10{
+	padding-right:-10px;
+}.pr-15{
+	padding-right:-15px;
+}.pr-20{
+	padding-right:-20px;
+}.pr-25{
+	padding-right:-25px;
+}.pr-30{
+	padding-right:-30px;
+}.pt-5{
+	padding-top:-5px;
+}.pt-10{
+	padding-top:-10px;
+}.pt-15{
+	padding-top:-15px;
+}.pt-20{
+	padding-top:-20px;
+}.pt-25{
+	padding-top:-25px;
+}.pt-30{
+	padding-top:-30px;
+}.pb-5{
+	padding-bottom:-5px;
+}.pb-10{
+	padding-bottom:-10px;
+}.pb-15{
+	padding-bottom:-15px;
+}.pb-20{
+	padding-bottom:-20px;
+}.pb-25{
+	padding-bottom:-25px;
+}.pb-30{
+	padding-bottom:-30px;
+}.ptb-5{
+	padding-bottom:-5px;
+	padding-top:-5px;
+}.ptb-10{
+	padding-bottom:-10px;
+	padding-top:-10px;
+}.ptb-15{
+	padding-bottom:-15px;
+	padding-top:-15px;
+}.ptb-20{
+	padding-bottom:-20px;
+	padding-top:-20px;
+}.ptb-25{
+	padding-bottom:-25px;
+	padding-top:-25px;
+}.ptb-30{
+	padding-bottom:-30px;
+	padding-top:-30px;
+}.prl-5{
+	padding-right:-5px;
+	padding-left:-5px;
+}.prl-10{
+	padding-right:-10px;
+	padding-left:-10px;
+}.prl-15{
+	padding-right:-15px;
+	padding-left:-15px;
+}.prl-20{
+	padding-right:-20px;
+	padding-left:-20px;
+}.prl-25{
+	padding-right:-25px;
+	padding-left:-25px;
+}.prl-30{
+	padding-right:-30px;
+	padding-left:-30px;
+}
+
+/*Margin*/
+.m0{
+	margin:0;
+}.m5{
+	margin:5px;
+}.m10{
+	margin:10px;
+}.m15{
+	margin:15px;
+}.m20{
+	margin:20px;
+}.m25{
+	margin:25px;
+}.m30{
+	margin:30px;
+}.ml0{
+	margin-left:0;
+}.ml5{
+	margin-left:5px;
+}.ml10{
+	margin-left:10px;
+}.ml15{
+	margin-left:15px;
+}.ml20{
+	margin-left:20px;
+}.ml25{
+	margin-left:25px;
+}.ml30{
+	margin-left:30px;
+}.mr0{
+	margin-right:0;
+}.mr5{
+	margin-right:5px;
+}.mr10{
+	margin-right:10px;
+}.mr15{
+	margin-right:15px;
+}.mr20{
+	margin-right:20px;
+}.mr25{
+	margin-right:25px;
+}.mr30{
+	margin-right:30px;
+}.mt0{
+	margin-top:0;
+}.mt5{
+	margin-top:5px;
+}.mt10{
+	margin-top:10px;
+}.mt15{
+	margin-top:15px;
+}.mt20{
+	margin-top:20px;
+}.mt25{
+	margin-top:25px;
+}.mt30{
+	margin-top:30px;
+}.mt40{
+	margin-top:40px;
+}.mb0{
+	margin-bottom:0 !important;
+}.mb5{
+	margin-bottom:5px;
+}.mb10{
+	margin-bottom:10px;
+}.mb15{
+	margin-bottom:15px;
+}.mb20{
+	margin-bottom:20px;
+}.mb25{
+	margin-bottom:25px;
+}.mb30{
+	margin-bottom:30px;
+}.mtb0{
+	margin-bottom:0;
+	margin-top:0;
+}.mtb5{
+	margin-bottom:5px;
+	margin-top:5px;
+}.mtb10{
+	margin-bottom:10px;
+	margin-top:10px;
+}.mtb15{
+	margin-bottom:15px;
+	margin-top:15px;
+}.mtb20{
+	margin-bottom:20px;
+	margin-top:20px;
+}.mtb25{
+	margin-bottom:25px;
+	margin-top:25px;
+}.mtb30{
+	margin-bottom:30px;
+	margin-top:30px;
+}.mrl0{
+	margin-right:0;
+	margin-left:0;
+}.mrl5{
+	margin-right:5px;
+	margin-left:5px;
+}.mrl10{
+	margin-right:10px;
+	margin-left:10px;
+}.mrl15{
+	margin-right:15px;
+	margin-left:15px;
+}.mrl20{
+	margin-right:20px;
+	margin-left:20px;
+}.mrl25{
+	margin-right:25px;
+	margin-left:25px;
+}.mrl30{
+	margin-right:30px;
+	margin-left:30px;
+}.mrl50{
+	margin-right:50px;
+	margin-left:50px;
+}.m-5{
+	margin:-5px;
+}.m-10{
+	margin:-10px;
+}.m-15{
+	margin:-15px;
+}.m-20{
+	margin:-20px;
+}.m-25{
+	margin:-25px;
+}.m-30{
+	margin:-30px;
+}.ml-5{
+	margin-left:-5px;
+}.ml-10{
+	margin-left:-10px;
+}.ml-15{
+	margin-left:-15px;
+}.ml-20{
+	margin-left:-20px;
+}.ml-25{
+	margin-left:-25px;
+}.ml-30{
+	margin-left:-30px;
+}.mr-5{
+	margin-right:-5px;
+}.mr-10{
+	margin-right:-10px;
+}.mr-15{
+	margin-right:-15px;
+}.mr-20{
+	margin-right:-20px;
+}.mr-25{
+	margin-right:-25px;
+}.mr-30{
+	margin-right:-30px;
+}.mt-5{
+	margin-top:-5px;
+}.mt-10{
+	margin-top:-10px;
+}.mt-15{
+	margin-top:-15px;
+}.mt-20{
+	margin-top:-20px;
+}.mt-25{
+	margin-top:-25px;
+}.mt-30{
+	margin-top:-30px;
+}.mb-5{
+	margin-bottom:-5px;
+}.mb-10{
+	margin-bottom:-10px;
+}.mb-15{
+	margin-bottom:-15px;
+}.mb-20{
+	margin-bottom:-20px;
+}.mb-25{
+	margin-bottom:-25px;
+}.mb-30{
+	margin-bottom:-30px;
+}.mtb-5{
+	margin-bottom:-5px;
+	margin-top:-5px;
+}.mtb-10{
+	margin-bottom:-10px;
+	margin-top:-10px;
+}.mtb-15{
+	margin-bottom:-15px;
+	margin-top:-15px;
+}.mtb-20{
+	margin-bottom:-20px;
+	margin-top:-20px;
+}.mtb-25{
+	margin-bottom:-25px;
+	margin-top:-25px;
+}.mtb-30{
+	margin-bottom:-30px;
+	margin-top:-30px;
+}.mrl-5{
+	margin-right:-5px;
+	margin-left:-5px;
+}.mrl-10{
+	margin-right:-10px;
+	margin-left:-10px;
+}.mrl-15{
+	margin-right:-15px;
+	margin-left:-15px;
+}.mrl-20{
+	margin-right:-20px;
+	margin-left:-20px;
+}.mrl-25{
+	margin-right:-25px;
+	margin-left:-25px;
+}.mrl-30{
+	margin-right:-30px;
+	margin-left:-30px;
+}
+
+/* Position */
+.p-relative{
+	position:relative;
+}.p-absolute{
+	position:absolute;
+}.p-fixed{
+	position:fixed;
+}.p-static{
+	position: static;
+}.p-sticky{
+	position:sticky;
+}
+
+/* Text Align */
+.text-center{
+	text-align:center;
+}.text-left{
+	text-align:left;
+}.text-right{
+	text-align:right;
+}
+
+/* Float */
+.f-left{
+	float:left;
+}.f-right{
+	float:right;
+}.f-none{
+	float:none;
+}
+
+/* Display */
+.d-none{
+	display:none;
+}.d-block{
+	display:block;
+}.d-inline-block{
+	display:inline-block;
+}.d-inline{
+	display:inline;
+}.d-table-cell{
+	display:table-cell;
+}.d-table{
+	display:table;
+}.d-inherit{
+	display:inherit;
+}
+/*height */
+.h100{
+	height: 100%;
+}
+/* Width */
+.w100{
+	width:100%;
+}.w95{
+	width:95%;
+}.w90{
+	width:90%;
+}.w85{
+	width:85%;
+}.w80{
+	width:80%;
+}.w75{
+	width:75%;
+}.w70{
+	width:70%;
+}.w65{
+	width:65%;
+}.w60{
+	width:60%;
+}.w55{
+	width:55%;
+}.w50{
+	width:50%;
+}.w45{
+	width:45%;
+}.w30{
+	width:30%;
+}.w25{
+	width:25%;
+}.w20{
+	width:20%;
+}.w15{
+	width:15%;
+}.w10{
+	width:10%;
+}.w5{
+	width:5%;
+}.h-auto{
+	height:auto;
+}
+
+/* Font Size */
+.fs1{
+	font-size:1px
+}.fs2{
+	font-size:2px
+}.fs3{
+	font-size:3px
+}.fs4{
+	font-size:4px
+}.fs5{
+	font-size:5px
+}.fs6{
+	font-size:6px
+}.fs7{
+	font-size:7px
+}.fs8{
+	font-size:8px
+}.fs9{
+	font-size:9px
+}.fs10{
+	font-size:10px
+}.fs11{
+	font-size:11px
+}.fs12{
+	font-size:12px
+}.fs13{
+	font-size:13px
+}.fs14{
+	font-size:14px
+}.fs15{
+	font-size:15px
+}.fs16{
+	font-size:16px
+}.fs17{
+	font-size:17px
+}.fs18{
+	font-size:18px
+}.fs19{
+	font-size:19px
+}.fs20{
+	font-size:20px
+}.fs21{
+	font-size:21px
+}.fs22{
+	font-size:22px
+}.fs23{
+	font-size:23px
+}.fs24{
+	font-size:24px
+}.fs25{
+	font-size:25px
+}.fs26{
+	font-size:26px
+}.fs27{
+	font-size:27px
+}.fs28{
+	font-size:28px
+}.fs29{
+	font-size:29px
+}.fs30{
+	font-size:30px
+}.fs1{
+	font-size:31px
+}.fs32{
+	font-size:32px
+}.fs33{
+	font-size:33px
+}.fs34{
+	font-size:34px
+}.fs35{
+	font-size:35px
+}.fs36{
+	font-size:36px
+}.fs37{
+	font-size:37px
+}.fs38{
+	font-size:38px
+}.fs39{
+	font-size:39px
+}.fs40{
+	font-size:40px
+}
+
+/* Font Style */
+.bold{
+	font-weight: bold;
+}.italic{
+	font-style:italic;
+}.normal{
+	font-weight: normal;
+}
+
+/* Border */
+.border-1 {
+	border: 1px solid rgba(0, 0, 0, .1);
+}
+.no-border-bottom {
+	border-bottom: 0px none !important;
+}
+
+/* Background */
+.bg-transparent{
+	background-color:transparent;
+}.bg-repeat{
+	background-repeat:repeat;
+}.bg-repeat-n{
+	background-repeat:no-repeat;
+}.bg-repeat-x{
+	background-repeat:repeat-x;
+}.bg-repeat-y{
+	background-repeat:repeat-y;
+}.bg-black {
+	background-color: #000000;
+}.bg-white{
+	background-color: #fff;
+}.bg-yellow-makna {
+	background-color: #fecb07;
+}.bg-red-makna {
+	background-color: #ed202a;
+}.bg-purple-makna {
+	background-color: #a64586;
+}.bg-blue-makna {
+	background-color: #00aeee;
+}.bg-cat1 {
+	background-color: #000000;
+}.bg-cat2 {
+	background-color: #000000;
+}.bg-cat3 {
+	background-color: #000000;
+}
+
+/* Color */
+.black{
+	color:#000 !important;
+}.white{
+	color:#fff !important;
+}
+.cl-bluesky {
+	color: #39a6ff;
+}
+.cl-gray {
+	color: #4a4d59 !important;
+}
+
+.cursor-pointer {
+	cursor: pointer !important;
+}
+
+.lh1{
+	line-height:1;
+}.lh10{
+	line-height: 10px;
+}.lh12{
+	line-height:1.2;
+}.lh13{
+	line-height:1.3;
+}.lh14{
+	line-height:1.4;
+}.lh15{
+	line-height:1.5;
+}.lh16{
+	line-height:1.6;
+}.lh17{
+	line-height:1.7;
+}.lh18{
+	line-height:1.8;
+}.lh19{
+	line-height:1.9;
+}.lh2{
+	line-height:2;
+}

@@ -1,0 +1,1 @@
+ALTER TABLE `vendor` ADD `address_npwp` TEXT NULL DEFAULT NULL AFTER `address`;

@@ -1,0 +1,1 @@
+ALTER TABLE `channel` ADD `genre` TEXT NULL AFTER `name`;
